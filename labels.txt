@@ -1,0 +1,3 @@
+0 backgroung
+1 phone
+2 remote
